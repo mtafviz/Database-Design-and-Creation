@@ -1,4 +1,4 @@
-# Database-Design-and-Creation
+# Database-Design-and-Creation-Of-Catskilluniversity
 
 ![1000_F_103537748_uWGohsy5YxltzX3xav3dQn9i23il3b7o](https://github.com/mtafviz/Database-Design-and-Creation/assets/134963936/4226eef3-96e5-4c99-bb84-196672b5bb73)
 
